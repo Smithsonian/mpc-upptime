@@ -21,11 +21,10 @@ sites:
     body: "Ceres"
   - name: Website Server
     check: "tcp-ping"
-    url: mpcweb2.si.edu
-    port: 80
+    url: $WEBSITE_SERVER
   - name: Data Subdomain Server
     check: "tcp-ping"
-    url: mpcweb6.cfa.harvard.edu
+    url: $DATA_SUBDOMAIN_SERVER
 
 assignees: # Users to assign downtime issues (optional)
   - ChrisMoriarty
@@ -35,15 +34,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://minorplanetcenter.net/iau/figs/MPClogo16.png
   name: MPC Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # introTitle: "Real-time status for MPC servers and services"
+  # introMessage: Incidents are automatically created when downtime is detected
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://minorplanetcenter.net
+    - title: Helpdesk
+      href: https://mpc-service.atlassian.net/servicedesk/customer/portals
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
