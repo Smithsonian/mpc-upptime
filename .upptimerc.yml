@@ -1,14 +1,35 @@
 # Change these first
 owner: Smithsonian # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: ChrisMoriarty
 
 sites:
-  - name: Minor Planet Center Homepage
+  - name: MPC Homepage
     url: https://www.minorplanetcenter.net
   - name: NEOCP
     url: https://minorplanetcenter.net/iau/NEO/toconfirm_tabular.html
   - name: Data Subdomain
     url: https://data.minorplanetcenter.net/
+  - name: Public VM Test
+    url: https://mpc-vm10.cfa.harvard.edu
+    __dangerous__disable_verify_peer: true
+  - name: Designation Identifier API
+    method: GET
+    url: "https://data.minorplanetcenter.net/api/query-identifier"
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "data": "Ceres" }'
+  - name: Website Server
+    check: "tcp-ping"
+    url: $MPC_WEBSITE_SERVER
+    port: 53
+  - name: Data Subdomain Server
+    check: "tcp-ping"
+    url: $MPC_DATA_SUBDOMAIN_SERVER
+    port: 53
+
+assignees: # Users to assign downtime issues (optional)
+  - ChrisMoriarty
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
