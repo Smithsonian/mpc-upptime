@@ -22,6 +22,7 @@ sites:
   - name: Website Server
     check: "tcp-ping"
     url: mpcweb2.si.edu
+    port: 80
   - name: Data Subdomain Server
     check: "tcp-ping"
     url: mpcweb6.cfa.harvard.edu
