@@ -31,7 +31,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://minorplanetcenter.net/iau/figs/MPClogo16.png
+  logoUrl: https://www.iau.org/static/archives/images/large/mpc-logo.jpg
   name: MPC Status
   # introTitle: "Real-time status for MPC servers and services"
   # introMessage: Incidents are automatically created when downtime is detected
