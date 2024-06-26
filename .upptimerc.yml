@@ -22,11 +22,9 @@ sites:
   - name: Website Server
     check: "tcp-ping"
     url: mpcweb2.si.edu
-    port: 53
   - name: Data Subdomain Server
     check: "tcp-ping"
     url: mpcweb6.cfa.harvard.edu
-    port: 53
 
 assignees: # Users to assign downtime issues (optional)
   - ChrisMoriarty
