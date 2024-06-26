@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Minor Planet Center Homepage
     url: https://www.minorplanetcenter.net
-  - name: VM Public Test
-    url: https://mpc-vm10.cfa.harvard.edu
+  - name: NEOCP
+    url: https://minorplanetcenter.net/iau/NEO/toconfirm_tabular.html
+  - name: Data Subdomain
+    url: https://data.minorplanetcenter.net/
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
