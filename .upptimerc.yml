@@ -15,7 +15,7 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: Designation Identifier API
     method: GET
-    url: "https://data.minorplanetcenter.net/api/query-identifier"
+    url: https://data.minorplanetcenter.net/api/query-identifier
     headers:
       - "Content-Type: application/text"
     body: "Ceres"
