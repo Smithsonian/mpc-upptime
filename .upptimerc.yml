@@ -21,10 +21,10 @@ sites:
     body: "Ceres"
   - name: Website Server
     check: "tcp-ping"
-    url: $WEBSITE_SERVER
+    url: $MPC_WEBSITE_SERVER
   - name: Data Subdomain Server
     check: "tcp-ping"
-    url: $DATA_SUBDOMAIN_SERVER
+    url: $MPC_DATA_SUBDOMAIN_SERVER
 
 assignees: # Users to assign downtime issues (optional)
   - ChrisMoriarty
