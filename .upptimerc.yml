@@ -19,12 +19,9 @@ sites:
     headers:
       - "Content-Type: application/text"
     body: "Ceres"
-  - name: Website Server
-    check: "tcp-ping"
-    url: $MPC_WEBSITE_SERVER
   - name: Data Subdomain Server
     check: "tcp-ping"
-    url: $MPC_DATA_SUBDOMAIN_SERVER
+    url: mpcweb6.cfa.harvard.edu
 
 assignees: # Users to assign downtime issues (optional)
   - ChrisMoriarty
