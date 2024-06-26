@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.minorplanetcenter.net.ico",
     "slug": "minor-planet-center-homepage",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 267,
     "timeDay": 267,
     "timeWeek": 267,
     "timeMonth": 267,
     "timeYear": 267,
-    "dailyMinutesDown": {
-      "2024-06-26": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NEOCP",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/minorplanetcenter.net.ico",
     "slug": "neocp",
     "status": "up",
-    "uptime": "91.50%",
-    "uptimeDay": "91.50%",
-    "uptimeWeek": "91.50%",
-    "uptimeMonth": "91.50%",
-    "uptimeYear": "91.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 284,
     "timeWeek": 284,
     "timeMonth": 284,
     "timeYear": 284,
-    "dailyMinutesDown": {
-      "2024-06-26": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Data Subdomain",
