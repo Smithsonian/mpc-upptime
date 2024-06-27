@@ -21,6 +21,10 @@ on:
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
+
+concurrency:
+      group: uptime
+
 jobs:
   release:
     name: Check status
