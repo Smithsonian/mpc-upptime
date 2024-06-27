@@ -14,7 +14,7 @@
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
 
-name: Uptime CI
+name: Uptime CI every 7 mins
 on:
   schedule:
     - cron: "*/7 * * * *"
