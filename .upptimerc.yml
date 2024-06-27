@@ -41,10 +41,8 @@ status-website:
   introTitle: "Experimental prototype for automated real-time status for MPC servers and services"
   introMessage: "Users can follow issues automatically created in Github when downtime occurs"
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: GitHub Issues
+      href: https://github.com/$OWNER/$REPO/issues
     - title: MPC Homepage
       href: https://minorplanetcenter.net
     - title: MPC Helpdesk
