@@ -33,8 +33,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://www.iau.org/static/archives/images/large/mpc-logo.jpg
   name: MPC Status
-  # introTitle: "Real-time status for MPC servers and services"
-  # introMessage: Incidents are automatically created when downtime is detected
+  introTitle: "Experimental prototype for automated real-time status for MPC servers and services"
+  introMessage: "Users can follow issues automatically created in Github when downtime occurs"
   navbar:
     - title: Status
       href: /
