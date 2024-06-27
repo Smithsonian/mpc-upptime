@@ -38,9 +38,11 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Homepage
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+    - title: MPC Homepage
       href: https://minorplanetcenter.net
-    - title: Helpdesk
+    - title: MPC Helpdesk
       href: https://mpc-service.atlassian.net/servicedesk/customer/portals
 
 # Upptime also supports notifications, assigning issues, and more
