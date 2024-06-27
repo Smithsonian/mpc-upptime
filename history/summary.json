@@ -58,19 +58,19 @@
     "url": "https://mpc-vm10.cfa.harvard.edu",
     "icon": "https://icons.duckduckgo.com/ip3/mpc-vm10.cfa.harvard.edu.ico",
     "slug": "public-vm-test",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 333,
-    "timeDay": 333,
-    "timeWeek": 333,
-    "timeMonth": 333,
-    "timeYear": 333,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 326,
+    "timeDay": 326,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {
-      "2024-06-27": 0
+      "2024-06-27": 2
     }
   },
   {
