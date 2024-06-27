@@ -4,32 +4,37 @@ repo: upptime # The name of this repository
 user-agent: ChrisMoriarty
 
 sites:
-  - name: MPC Homepage
-    url: https://www.minorplanetcenter.net
   - name: NEOCP
     url: https://minorplanetcenter.net/iau/NEO/toconfirm_tabular.html
-  - name: Data Subdomain
+  - name: MPC Homepage
+    url: https://www.minorplanetcenter.net
+  - name: MPC Data Services Homepage
     url: https://data.minorplanetcenter.net/
-  - name: Public VM Test
-    url: https://mpc-vm10.cfa.harvard.edu
-    __dangerous__disable_verify_peer: true
-  - name: Designation Identifier API
+  - name: MPC Explorer
+    url: https://data.minorplanetcenter.net/explorer/
+  - name: Designation Identifier
     method: GET
     url: https://data.minorplanetcenter.net/api/query-identifier
     headers:
       - "Content-Type: application/text"
+  - name: Public VM Test
+    url: https://mpc-vm10.cfa.harvard.edu
+    __dangerous__disable_verify_peer: true
     body: "Ceres"
-  - name: Data Subdomain Server
+  - name: (PING) MPC Data Services Server
     check: "tcp-ping"
     url: mpcweb6.cfa.harvard.edu
 
 assignees: # Users to assign downtime issues (optional)
   - ChrisMoriarty
 
+skipDeleteIssues: false # Skip deleting the downtime issues after recovery
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  theme: ocean
   baseUrl: /upptime
   logoUrl: https://www.iau.org/static/archives/images/large/mpc-logo.jpg
   name: MPC Status
@@ -44,6 +49,3 @@ status-website:
       href: https://minorplanetcenter.net
     - title: MPC Helpdesk
       href: https://mpc-service.atlassian.net/servicedesk/customer/portals
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
