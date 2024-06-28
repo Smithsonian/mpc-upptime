@@ -17,13 +17,15 @@ sites:
     url: https://data.minorplanetcenter.net/api/query-identifier
     headers:
       - "Content-Type: application/text"
-  - name: Public VM Test
-    url: https://mpc-vm10.cfa.harvard.edu
-    __dangerous__disable_verify_peer: true
     body: "Ceres"
-  - name: (PING) MPC Data Services Server
-    check: "tcp-ping"
-    url: mpcweb6.cfa.harvard.edu
+
+#  - name: Public VM Test
+#    url: https://mpc-vm10.cfa.harvard.edu
+#    __dangerous__disable_verify_peer: true
+#
+#  - name: (PING) MPC Data Services Server
+#    check: "tcp-ping"
+#    url: mpcweb6.cfa.harvard.edu
 
 assignees: # Users to assign downtime issues (optional)
   - ChrisMoriarty
@@ -37,6 +39,8 @@ status-website:
   theme: ocean
   baseUrl: /upptime
   logoUrl: https://www.iau.org/static/archives/images/large/mpc-logo.jpg
+  favicon: https://minorplanetcenter.net/iau/figs/MPClogo16.png
+
   name: MPC Status
   introTitle: "Experimental prototype for automated real-time status for MPC servers and services"
   introMessage: "Users can follow issues automatically created in Github when downtime occurs"
