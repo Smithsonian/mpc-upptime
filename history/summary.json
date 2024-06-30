@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/minorplanetcenter.net.ico",
     "slug": "neocp",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 241,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
-    "dailyMinutesDown": {
-      "2024-06-29": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MPC Homepage",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.minorplanetcenter.net.ico",
     "slug": "mpc-homepage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 242,
     "timeDay": 215,
     "timeWeek": 242,
     "timeMonth": 242,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2024-06-29": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MPC Data Services Homepage",
