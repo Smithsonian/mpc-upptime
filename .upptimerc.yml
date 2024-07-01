@@ -35,10 +35,10 @@ skipDeleteIssues: false # Skip deleting the downtime issues after recovery
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: status.minorplanetcenter.net
   theme: ocean
-  baseUrl: /upptime
-  logoUrl: https://www.iau.org/static/archives/images/large/mpc-logo.jpg
+#  baseUrl: /upptime
+  logoUrl: https://https://smithsonian.github.io/upptime/assets/mpc_logo.png
   favicon: https://minorplanetcenter.net/iau/figs/MPClogo16.png
 
   name: MPC Status
