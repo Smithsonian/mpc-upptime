@@ -4,19 +4,19 @@
     "url": "https://minorplanetcenter.net/iau/NEO/toconfirm_tabular.html",
     "icon": "https://icons.duckduckgo.com/ip3/minorplanetcenter.net.ico",
     "slug": "neocp",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 259,
-    "timeDay": 221,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 256,
+    "timeDay": 203,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2024-07-02": 1
+      "2024-07-02": 2
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.minorplanetcenter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.minorplanetcenter.net.ico",
     "slug": "mpc-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 225,
-    "timeWeek": 246,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 244,
+    "timeDay": 213,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-07-02": 0
+      "2024-07-02": 2
     }
   },
   {
