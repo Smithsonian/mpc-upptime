@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/minorplanetcenter.net.ico",
     "slug": "neocp",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 259,
-    "timeDay": 285,
-    "timeWeek": 256,
-    "timeMonth": 259,
-    "timeYear": 259,
-    "dailyMinutesDown": {
-      "2024-07-03": 2
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 258,
+    "timeDay": 244,
+    "timeWeek": 255,
+    "timeMonth": 258,
+    "timeYear": 258,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MPC Homepage",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.minorplanetcenter.net.ico",
     "slug": "mpc-homepage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 241,
-    "timeDay": 224,
-    "timeWeek": 239,
-    "timeMonth": 241,
-    "timeYear": 241,
-    "dailyMinutesDown": {
-      "2024-07-03": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 239,
+    "timeDay": 186,
+    "timeWeek": 234,
+    "timeMonth": 239,
+    "timeYear": 239,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MPC Data Services Homepage",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 395,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "time": 325,
+    "timeDay": 215,
+    "timeWeek": 325,
+    "timeMonth": 325,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 184,
-    "timeWeek": 103,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "time": 100,
+    "timeDay": 68,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 206,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
+    "time": 138,
+    "timeDay": 153,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   }
 ]
