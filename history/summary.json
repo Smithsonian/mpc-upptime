@@ -71,19 +71,19 @@
     "url": "https://data.minorplanetcenter.net/",
     "icon": "https://icons.duckduckgo.com/ip3/data.minorplanetcenter.net.ico",
     "slug": "mpc-data-services-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 222,
-    "timeWeek": 245,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "time": 303,
+    "timeDay": 199,
+    "timeWeek": 236,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-07-19": 0
+      "2024-07-19": 1
     }
   },
   {
