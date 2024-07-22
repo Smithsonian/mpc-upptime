@@ -4,19 +4,19 @@
     "url": "https://minorplanetcenter.net/iau/NEO/toconfirm_tabular.html",
     "icon": "https://icons.duckduckgo.com/ip3/minorplanetcenter.net.ico",
     "slug": "neocp",
-    "status": "down",
-    "uptime": "97.67%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "95.68%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "97.67%",
+    "status": "up",
+    "uptime": "97.70%",
+    "uptimeDay": "94.54%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
     "time": 258,
-    "timeDay": 219,
-    "timeWeek": 224,
+    "timeDay": 222,
+    "timeWeek": 225,
     "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2024-07-22": 87,
+      "2024-07-22": 78,
       "2024-07-21": 36,
       "2024-07-20": 33,
       "2024-07-19": 110,
@@ -41,19 +41,19 @@
     "url": "https://www.minorplanetcenter.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.minorplanetcenter.net.ico",
     "slug": "mpc-homepage",
-    "status": "down",
-    "uptime": "97.62%",
-    "uptimeDay": "93.17%",
-    "uptimeWeek": "95.85%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "97.62%",
+    "status": "up",
+    "uptime": "97.65%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "95.94%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
     "time": 251,
-    "timeDay": 219,
+    "timeDay": 222,
     "timeWeek": 227,
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-07-22": 95,
+      "2024-07-22": 86,
       "2024-07-21": 38,
       "2024-07-20": 32,
       "2024-07-19": 65,
@@ -79,8 +79,8 @@
     "slug": "mpc-data-services-homepage",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 292,
@@ -89,7 +89,7 @@
     "timeMonth": 292,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2024-07-22": 9
+      "2024-07-22": 11
     }
   },
   {
@@ -99,8 +99,8 @@
     "slug": "mpc-explorer",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 96,
@@ -109,7 +109,7 @@
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2024-07-22": 9
+      "2024-07-22": 11
     }
   },
   {
@@ -119,8 +119,8 @@
     "slug": "designation-identifier",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 542,
@@ -129,7 +129,7 @@
     "timeMonth": 542,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-07-22": 9
+      "2024-07-22": 11
     }
   }
 ]
