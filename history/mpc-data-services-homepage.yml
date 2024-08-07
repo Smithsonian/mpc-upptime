@@ -1,7 +1,7 @@
 url: https://data.minorplanetcenter.net/
-status: degraded
+status: up
 code: 200
-responseTime: 449
-lastUpdated: 2024-08-07T19:17:27.275Z
+responseTime: 30
+lastUpdated: 2024-08-07T19:23:56.531Z
 startTime: 2024-06-27T19:24:25.637Z
 generator: Upptime <https://github.com/upptime/upptime>
