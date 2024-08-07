@@ -6,23 +6,23 @@ user-agent: ChrisMoriarty
 sites:
   - name: NEOCP
     url: https://minorplanetcenter.net/iau/NEO/toconfirm_tabular.html
-    maxResponseTime: 60
+    maxResponseTime: 20000
   - name: MPC Homepage
     url: https://www.minorplanetcenter.net
-    maxResponseTime: 60
+    maxResponseTime: 20000
   - name: MPC Data Services Homepage
     url: https://data.minorplanetcenter.net/
-    maxResponseTime: 60
+    maxResponseTime: 20000
   - name: MPC Explorer
     url: https://data.minorplanetcenter.net/explorer/
-    maxResponseTime: 60
+    maxResponseTime: 20000
   - name: Designation Identifier
     method: GET
     url: https://data.minorplanetcenter.net/api/query-identifier
     headers:
       - "Content-Type: application/text"
     body: "Ceres"
-    maxResponseTime: 60
+    maxResponseTime: 20000
     
 #  - name: Public VM Test
 #    url: https://mpc-vm10.cfa.harvard.edu
