@@ -35,6 +35,9 @@ sites:
 # assignees: # Users to assign downtime issues (optional)
 #   - ChrisMoriarty
 
+# Add 1s delay in between each check to give apache a better chance at replying. 
+delay: 1000
+
 skipDeleteIssues: false # Skip deleting the downtime issues after recovery
 
 status-website:
