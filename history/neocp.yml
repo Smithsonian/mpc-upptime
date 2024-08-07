@@ -1,7 +1,7 @@
 url: https://minorplanetcenter.net/iau/NEO/toconfirm_tabular.html
-status: up
+status: degraded
 code: 200
-responseTime: 19
-lastUpdated: 2024-08-07T19:14:17.640Z
+responseTime: 520
+lastUpdated: 2024-08-07T19:17:21.522Z
 startTime: 2024-06-26T19:36:29.842Z
 generator: Upptime <https://github.com/upptime/upptime>
