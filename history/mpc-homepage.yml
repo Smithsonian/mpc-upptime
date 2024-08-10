@@ -1,7 +1,7 @@
 url: https://www.minorplanetcenter.net
-status: down
+status: degraded
 code: 500
-responseTime: 19523
-lastUpdated: 2024-08-10T15:12:17.262Z
+responseTime: 24069
+lastUpdated: 2024-08-10T15:25:52.103Z
 startTime: 2024-06-26T20:28:13.448Z
 generator: Upptime <https://github.com/upptime/upptime>
