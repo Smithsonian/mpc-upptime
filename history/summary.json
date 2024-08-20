@@ -145,19 +145,19 @@
     "url": "https://data.minorplanetcenter.net/api/query-identifier",
     "icon": "https://icons.duckduckgo.com/ip3/data.minorplanetcenter.net.ico",
     "slug": "designation-identifier",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 528,
-    "timeDay": 206,
-    "timeWeek": 183,
-    "timeMonth": 711,
-    "timeYear": 528,
+    "time": 522,
+    "timeDay": 180,
+    "timeWeek": 178,
+    "timeMonth": 697,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-08-20": 1,
+      "2024-08-20": 3,
       "2024-07-22": 15
     }
   }
